@@ -1,6 +1,6 @@
 # Phạm Quỳnh Hương
 
-**AI / Computer Vision Intern (OJT)** · FPT University Can Tho · Graduating 2026
+**AI / Computer Vision Intern (OJT)** · FPT University Can Tho 
 
 I build practical computer vision and LLM projects, from training the model to
 turning it into a web app people can use.
