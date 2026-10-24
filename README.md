@@ -9,7 +9,7 @@ turning it into a web app people can use.
 
 ---
 
-## Selected work
+## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
